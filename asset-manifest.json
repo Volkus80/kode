@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/kode/static/js/main.c2759e7e.js",
+    "static/js/787.925040df.chunk.js": "/kode/static/js/787.925040df.chunk.js",
+    "static/media/zoomer.svg": "/kode/static/media/zoomer.d6235b857b4311d4a21623cfc3878e23.svg",
+    "static/media/itplate.svg": "/kode/static/media/itplate.667ca4883cad671d6ea9932cd3818fa4.svg",
+    "static/media/phone.svg": "/kode/static/media/phone.b88e8b451761411cb72007eebb52bb10.svg",
+    "static/media/filter.svg": "/kode/static/media/filter.1e4af09af21b98b53e0e3a8e34a814b6.svg",
+    "static/media/star.svg": "/kode/static/media/star.ba16837ce2afdd1e762211f329dd38e5.svg",
+    "static/media/search.svg": "/kode/static/media/search.67814c7114f9f319f7d6ef6afd872fcc.svg",
+    "static/media/arrow.svg": "/kode/static/media/arrow.4841ff684f0c68d0b167ada2ccff394a.svg",
+    "index.html": "/kode/index.html",
+    "main.c2759e7e.js.map": "/kode/static/js/main.c2759e7e.js.map",
+    "787.925040df.chunk.js.map": "/kode/static/js/787.925040df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c2759e7e.js"
+  ]
+}
